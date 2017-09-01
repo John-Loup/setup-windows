@@ -6,3 +6,5 @@ Just a reminder for a new windows setup
 Windows 10
  
  
+# 2: Desktop
+[![Aperçu](desktop.png)](https://raw.githubusercontent.com/John-Loup/setup-windows/master/screenshot.png)
