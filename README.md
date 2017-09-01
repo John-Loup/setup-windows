@@ -1,4 +1,4 @@
-# LINUX SETUP
+# WINDOWS SETUP
 Just a reminder for a new windows setup
 
 
